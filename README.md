@@ -1,11 +1,11 @@
-go-google-translate
+####go-google-translate
 
 
-install
+**install**
 
 go get github.com/Julioolivares12/go-google-translate
 
-example
+**example**
 ```go
 import (
     "github.com/Julioolivares12/google-translate/traductor"
