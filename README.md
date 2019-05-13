@@ -6,7 +6,7 @@ install
 go get github.com/Julioolivares12/go-google-translate
 
 example
-
+```go
 import (
     "github.com/Julioolivares12/google-translate/traductor"
     "fmt"
@@ -18,3 +18,4 @@ func main() {
     }
     fmt.Println(r.Sentences[0].Trans)
 }
+```
